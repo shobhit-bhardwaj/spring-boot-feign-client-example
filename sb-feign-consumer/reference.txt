@@ -1,0 +1,6 @@
+Producer APIs -
+http://localhost:8081/FeignProducerService/message/hello/Shobhit
+
+
+Consumer APIs -
+http://localhost:8082/FeignConsumerService/api/welcome/Shobhit
